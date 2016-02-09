@@ -323,7 +323,6 @@
                     </execution>
                 </executions>
             </plugin>
-<!--
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>findbugs-maven-plugin</artifactId>
@@ -331,6 +330,7 @@
                 <configuration>
                     <threshold>High</threshold>
                     <includeTests>true</includeTests>
+                    <failOnError>false</failOnError>
                 </configuration>
                 <executions>
                     <execution>
@@ -340,7 +340,6 @@
                     </execution>
                 </executions>
             </plugin>
--->
             <plugin>
                 <groupId>biz.aQute.bnd</groupId>
                 <artifactId>bnd-maven-plugin</artifactId>
