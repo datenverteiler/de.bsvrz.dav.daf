@@ -1,5 +1,5 @@
-Datenverteiler-Applikationsfunktionen [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.dav.daf.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.dav.daf)
-=====================================
+Datenverteiler-Applikationsfunktionen v${project.version} [![Build Status](https://travis-ci.org/datenverteiler/de.bsvrz.dav.daf.svg?branch=develop)](https://travis-ci.org/datenverteiler/de.bsvrz.dav.daf)
+=============================================
 
 
 Bauen und Veröffentlichen
